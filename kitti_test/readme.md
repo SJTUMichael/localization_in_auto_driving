@@ -20,7 +20,7 @@ roscore
 - 启动rviz
 打开终端，cd到“kitti_test”文件夹下，输入指令
 ```
-rviz display_bag.rviz
+rviz -d display_bag.rviz
 ```
 - 播放bag
 打开终端，cd到bag所在目录，输入指令
